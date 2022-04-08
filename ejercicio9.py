@@ -1,5 +1,6 @@
 """Ejercicio 9
-Crear una función que calcule el MCD de dos número por el método de Euclides. El método de Euclides es el siguiente:
+Crear una función que calcule el MCD de dos número por el método de Euclides. 
+El método de Euclides es el siguiente:
 
 Se divide el número mayor entre el menor.
 Si la división es exacta, el divisor es el MCD.
