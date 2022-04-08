@@ -6,8 +6,8 @@ num = int(input("Ingresar un número"))
 
 def factorial(num):
     print "Valor inicial ->",num 
-    if numero > 1:
+    if num > 1:
         num= num*factorial(num-1)
     print "valor final ->",num
-    return numero
-print("El factorial de",num,"es", num)
+    return num
+print("El factorial es",num)
