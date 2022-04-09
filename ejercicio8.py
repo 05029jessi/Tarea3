@@ -1,7 +1,6 @@
 """Ejercicio 8
 Crear una función recursiva que permita calcular el factorial de un número. 
 Realiza un programa principal donde se lea un entero y se muestre el resultado del factorial."""
-<<<<<<< HEAD
 
 num = int(input("Ingresar un número"))
 
@@ -13,5 +12,3 @@ def factorial(num):
         return num * factorial(num-1)
 print("El factorial es",factorial(num))
 
-=======
->>>>>>> ed5517429be8e93aae5fc245708ae344563ecfd1
